@@ -1,4 +1,5 @@
-## Olá, me chamo Luana 🌸
+## Olá, me chamo Luana 🍵
+<h2>Seja bem vindo ao meu perfil!
 <div align="center">
 <img src="https://data.whicdn.com/images/354320902/original.jpg">
 </div>
@@ -10,8 +11,8 @@
 
 <div align="center">
 <a href="https://github.com/luanagbrm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagbrm&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagbrm&show_icons=true&theme=dark"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagbrm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">  
 <a href="https://instagram.com/lvnabies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
