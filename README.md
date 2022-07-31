@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/PHP-507a43?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-507a43?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-507a43?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Inkscape-507a43?style=for-the-badge&logo=Inkscape&logoColor=white">
 <br>  
 </div>
 
@@ -32,19 +33,3 @@
 </div>
 <div align="center">
 <br>
-
-
-<!--
-**luanagbrm/luanagbrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
