@@ -1,11 +1,12 @@
-##Olá, me chamo Luana 🍵
+## Olá! Eu sou a Luana. 🍵
+<div>
 <a href="https://instagram.com/lvnabies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:luana.gr.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
 <img src="https://data.whicdn.com/images/354320902/original.jpg">
 </div>
-
 
 <br>
 🌿 17 anos, aspirante a desenvolvedora de São Paulo - SP.
