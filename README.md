@@ -15,12 +15,14 @@
 <br> 
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-YELLOWGREEN?style=for-the-badge&logo=java&logoColor=white"> 
+ <br> 
+<img src="https://img.shields.io/badge/HTML5-507a43?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-507a43?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/CSS3-507a43?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-507a43?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-507a43?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-507a43?style=for-the-badge&logo=java&logoColor=white">
+<br>  
 </div>
 
 <div align="center">
