@@ -1,9 +1,12 @@
-## Olá, me chamo Luana.
+## Olá, me chamo Luana ⭐
+
+
+
 
 
 ##
 
-<div>
+<div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagbrm&layout=compact&langs_count=7&theme=synthwave"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanagbrm&show_icons=true&theme=synthwave"/> 
