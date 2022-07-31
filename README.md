@@ -4,13 +4,12 @@
 <img src="https://data.whicdn.com/images/354320902/original.jpg">
 </div>
 
-<div align="center">
+
 <br>
- • Aspirante a desenvolvedora 🌿
+ • 17 anos, aspirante a desenvolvedora de São Paulo - SP 🌿
 <br>
  • Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas 🌿
 <br> 
-</div>
 
 <div align="center">
 
