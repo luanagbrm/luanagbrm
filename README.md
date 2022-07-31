@@ -1,4 +1,15 @@
-### Hi there 👋
+### Olá, me chamo Luana.
+
+
+##
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagbrm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<a href="https://instagram.com/lvnabies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:luana.gr.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 <!--
 **luanagbrm/luanagbrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
