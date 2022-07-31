@@ -1,4 +1,6 @@
 ## Olá, me chamo Luana 🍵
+<a href="https://instagram.com/lvnabies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:luana.gr.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <img src="https://data.whicdn.com/images/354320902/original.jpg">
@@ -6,9 +8,9 @@
 
 
 <br>
- • 17 anos, aspirante a desenvolvedora de São Paulo - SP 🌿
+🌿 17 anos, aspirante a desenvolvedora de São Paulo - SP.
 <br>
- • Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas 🌿
+📗 Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas.
 <br> 
 
 <div align="center">
@@ -23,10 +25,7 @@
 </div>
 <div align="center">
 <br>
- <h3>CONTATO</h3>
-<a href="https://instagram.com/lvnabies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luana.gr.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+
 
 <!--
 **luanagbrm/luanagbrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
