@@ -6,6 +6,7 @@
 
 <div align="center">
 🌿 Aspirante a desenvolvedora. 
+<br>
 🌿 Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas.
 </div>
 
