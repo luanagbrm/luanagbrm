@@ -27,7 +27,7 @@
 </div>
 
 <br>
-<div>
+<div align="center">
 <a href="https://github.com/luanagbrm">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luanagbrm&show_icons=true&theme=dark"/> 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagbrm&layout=compact&langs_count=7&theme=dark"/>
