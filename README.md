@@ -1,13 +1,13 @@
 ## Olá, me chamo Luana 🍵
-<h2>Seja bem vindo ao meu perfil!
+
 <div align="center">
 <img src="https://data.whicdn.com/images/354320902/original.jpg">
 </div>
 
-
-
-
-##
+<div align="center">
+🌿 Aspirante a desenvolvedora. 
+🌿 Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas.
+</div>
 
 <div align="center">
 <a href="https://github.com/luanagbrm">
