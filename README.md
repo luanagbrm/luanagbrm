@@ -1,5 +1,5 @@
 ## Olá, me chamo Luana 🌸
-<img src="https://i.pinimg.com/736x/0f/1a/87/0f1a874a46d5ce5bbe67738a05195416.jpg">
+<img align="center" src="https://i.pinimg.com/736x/0f/1a/87/0f1a874a46d5ce5bbe67738a05195416.jpg">
 
 
 
