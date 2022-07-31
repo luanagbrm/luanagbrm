@@ -5,9 +5,11 @@
 </div>
 
 <div align="center">
+<br>
 🌿 Aspirante a desenvolvedora. 
 <br>
 🌿 Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas.
+<br> 
 </div>
 
 <div align="center">
