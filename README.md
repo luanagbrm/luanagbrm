@@ -9,7 +9,7 @@
 </div>
 
 <br>
-🌿 17 anos, aspirante a desenvolvedora de São Paulo - SP.
+🌿 17 anos, aspirante a desenvolvedora front-end de São Paulo - SP.
 <br>
 📗 Atualmente, cursando o 2° ano do ensino médio alinhado ao curso técnico em Desenvolvimento de Sistemas.
 <br> 
