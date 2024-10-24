@@ -19,6 +19,8 @@
 
 ★ atualmente, estou cursando o 2° semestre do Bacharelado em Ciência da Computação da PUC-SP.
 
+★ estagiária de engenharia de desenvolvimento de software na Amazon.
+
 </div>
 
 <div align="center">
