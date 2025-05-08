@@ -15,7 +15,7 @@
 <h3>✧</h3>
 
 
-★ tenho 19 anos, sou de São Paulo - SP.
+★ tenho 20 anos, sou de São Paulo - SP.
 
 ★ atualmente, estou cursando o 3° semestre do Bacharelado em Ciência da Computação da PUC-SP.
 
