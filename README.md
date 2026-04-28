@@ -15,9 +15,9 @@
 <h3>✧</h3>
 
 
-★ tenho 20 anos, sou de São Paulo - SP.
+★ tenho 21 anos, sou de São Paulo - SP.
 
-★ atualmente, estou cursando o 3° semestre do Bacharelado em Ciência da Computação da PUC-SP.
+★ atualmente, estou cursando o 5° semestre do Bacharelado em Ciência da Computação da PUC-SP.
 
 ★ estagiária de engenharia de desenvolvimento de software na Amazon.
 
